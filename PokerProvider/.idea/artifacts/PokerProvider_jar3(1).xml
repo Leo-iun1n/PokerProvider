@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PokerProvider:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/PokerProvider_jar3</output-path>
+    <root id="archive" name="PokerProvider.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../ffffffffffffff/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PokerProvider" />
+    </root>
+  </artifact>
+</component>
